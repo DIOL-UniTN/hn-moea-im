@@ -1,4 +1,4 @@
-# Influence Maximization in Hypergraphs using Multi-Objective Evolutionary Algorithms
+# Influence Maximization in Hypergraph Networks using Multi-Objective Evolutionary Algorithm
 
 [CODE WILL BE AVAILABLE SOON]
 
@@ -45,8 +45,7 @@ Authors:
 - Stefano Genetti, MSc Student University of Trento (Italy), stefano.genetti@studenti.unitn.it
 - Eros Ribaga, MSc Student University of Trento (Italy), eros.ribaga@studenti.unitn.it
 - Elia Cunegatti, Ph.D Student University of Trento (Italy), elia.cunegatti@unitn.it
-- Quintino Francesco Lotito, Ph.D Student University of Trento (Italy), quintino.lotito@unitn.it
-- Alberto Montresor, Full Professor University of Trento (Italy), alberto.montresor@unitn.it
+- Francesco Quintino Lotito, Ph.D Student University of Trento (Italy), quintino.lotito@unitn.it
 - Giovanni Iacca, Associate Professor University of Trento (Italy), giovanni.iacca@unitn.it
 
 For every type of doubts/questions about the repository please do not hesitate to contact us.
