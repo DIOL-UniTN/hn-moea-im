@@ -1,4 +1,4 @@
-# Influence Maximization in Hypergraph Networks using Multi-Objective Evolutionary Algorithms
+# Influence Maximization in Hypergraph Networks using Multi-Objective Evolutionary Algorithm
 
 [CODE WILL BE AVALIABLE SOON]
 
