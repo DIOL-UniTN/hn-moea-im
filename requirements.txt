@@ -1,0 +1,7 @@
+matplotlib
+inspyred
+numpy
+hypergraphx
+pymoo
+pandas
+tqdm
