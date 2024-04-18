@@ -1,6 +1,6 @@
 # Influence Maximization in Hypergraph Networks using Multi-Objective Evolutionary Algorithm
 
-[CODE WILL BE AVALIABLE SOON]
+[CODE WILL BE AVAILABLE SOON]
 
 The goal of influence maximization (IM) is to reach the maximum number of entities in a network, starting from a small set of seed nodes, and assuming a model for information propagation. While this task has been widely studied in ordinary graph networks, IM in hypergraphs (where hyperedges represent interactions among more than two nodes) has not been adequately explored yet. The purpose of this study is to propose a multi-objective evolutionary algorithm to tackle the IM problem in hypergraph networks.
 
