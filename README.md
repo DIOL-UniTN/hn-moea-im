@@ -1,6 +1,6 @@
-# Influence Maximization in Hypergraph Networks using Multi-Objective Evolutionary Algorithms
+# Influence Maximization in Hypergraphs using Multi-Objective Evolutionary Algorithms
 
-[CODE WILL BE AVALIABLE SOON]
+[CODE WILL BE AVAILABLE SOON]
 
 The goal of influence maximization (IM) is to reach the maximum number of entities in a network, starting from a small set of seed nodes, and assuming a model for information propagation. While this task has been widely studied in ordinary graph networks, IM in hypergraphs (where hyperedges represent interactions among more than two nodes) has not been adequately explored yet. The purpose of this study is to propose a multi-objective evolutionary algorithm to tackle the IM problem in hypergraph networks.
 
@@ -11,13 +11,7 @@ The goal of influence maximization (IM) is to reach the maximum number of entiti
 ## Requirements
 Before getting started, make sure you have installed all the requirements.
 ```
-pip install inspyred
-pip install hypergraphx
-pip install pymoo
-pip install tqdm
-pip install pandas
-pip install numpy
-pop install matplotlib
+pip install -r requirements.txt
 ```
 
 ## Structure
@@ -51,7 +45,8 @@ Authors:
 - Stefano Genetti, MSc Student University of Trento (Italy), stefano.genetti@studenti.unitn.it
 - Eros Ribaga, MSc Student University of Trento (Italy), eros.ribaga@studenti.unitn.it
 - Elia Cunegatti, Ph.D Student University of Trento (Italy), elia.cunegatti@unitn.it
-- Francesco Quintino Lotito, Ph.D Student University of Trento (Italy), quintino.lotito@unitn.it
+- Quintino Francesco Lotito, Ph.D Student University of Trento (Italy), quintino.lotito@unitn.it
+- Alberto Montresor, Full Professor University of Trento (Italy), alberto.montresor@unitn.it
 - Giovanni Iacca, Associate Professor University of Trento (Italy), giovanni.iacca@unitn.it
 
 For every type of doubts/questions about the repository please do not hesitate to contact us.
